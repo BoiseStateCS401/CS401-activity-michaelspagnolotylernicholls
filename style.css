@@ -1,0 +1,48 @@
+body {
+    background-color: powderblue;
+    font-family: "Arial", Times, serif;
+    color:blue;
+}
+
+h1,h2{
+    font-family: "Timses New Roman", Times, serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+ul,p{
+    color: purple;
+}
+
+em{
+    color: red;
+}
+
+li{
+    list-style-type: square;
+    padding-bottom: 10px;
+}
+
+.listStyle{
+    color:magenta;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img{
+    border-radius: 25px;
+}
+
+img:hover{
+    opacity: 0.5;  
+}
+
+pre{
+    border-width: 10px;
+}
