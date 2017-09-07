@@ -1,5 +1,7 @@
 # My First Website
 
+Our website: https://boisestatecs401.github.io/CS401-activity-michaelspagnolotylernicholls/
+
 ## Learning Objectives
 
 * Create a well-designed web page using semantic HyperText Markup Language (HTML) and Cascading Style Sheets (CSS).
