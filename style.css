@@ -4,10 +4,27 @@ body {
     color:blue;
 }
 
+.logo {
+    display: block;
+    margin: auto;
+    width: 20%;
+    height: 20%;
+}
+
 h1,h2{
     font-family: "Timses New Roman", Times, serif;
     font-size: 30px;
     text-align: center;
+}
+
+nav{
+    background-image: linear-gradient(to right, red, pink);
+    border-radius: 25px;
+}
+
+.link{
+    color: aqua;
+    padding-right: 50px;
 }
 
 ul,p{
@@ -52,6 +69,12 @@ a:hover {
 
 aside{
     float: right;
+}
+
+li img{
+    border-radius: 25px;
+    height: 30px;
+    width: 30px;
 }
 
 img{
