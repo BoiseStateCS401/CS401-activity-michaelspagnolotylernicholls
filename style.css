@@ -11,6 +11,13 @@ body {
     height: 20%;
 }
 
+#toggleThing{
+    display: block;
+}
+
+#toggler{
+}
+
 h1,h2{
     font-family: "Timses New Roman", Times, serif;
     font-size: 30px;
